@@ -1,0 +1,4 @@
+{
+  "name": "q",
+  "main": "./core.q.js"
+}
